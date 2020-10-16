@@ -1,2 +1,3 @@
 # bootcamp_projects
-Bootcamp Projects
+
+**Maze**
