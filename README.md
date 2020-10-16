@@ -1,4 +1,4 @@
-# bootcamp_projects
+# Bootcamp Projects
 
 **Maze**
 <img src="./Maze/maze_preview.jpg">
