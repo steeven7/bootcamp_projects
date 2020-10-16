@@ -6,3 +6,12 @@
 ### Built with
 
 - Matter.js - https://brm.io/matter-js/
+
+### Controls
+
+- w - Up
+- s - Right
+- z - Down
+- a - Left
+
+ https://maze-tan.vercel.app/
