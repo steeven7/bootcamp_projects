@@ -14,4 +14,4 @@
 - z - Down
 - a - Left
 
- https://maze-tan.vercel.app/
+ URL: https://maze-tan.vercel.app/
