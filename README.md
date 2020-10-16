@@ -16,7 +16,6 @@
 
  URL: https://maze-tan.vercel.app/
 
-<vl>
  
  
 ***
@@ -28,3 +27,9 @@
 
 URL: https://message-taupe-six.vercel.app/
 
+
+***
+
+**Timer**
+
+<img src="./Timer/timer_preview.jpg">
